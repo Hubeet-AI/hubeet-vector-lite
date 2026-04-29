@@ -1,0 +1,1 @@
+Quantum computing leverages the principles of superposition and entanglement to perform calculations exponentially faster than classical computers for certain tasks. By using qubits instead of bits, these systems can explore many possibilities simultaneously, potentially revolutionizing cryptography and materials science.

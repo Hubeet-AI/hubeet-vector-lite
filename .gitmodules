@@ -1,0 +1,3 @@
+[submodule ".agent/skills/shared"]
+	path = .agent/skills/shared
+	url = git@gitlab.solunika.com:solunika/cook_books/solunika-agent-skills.git

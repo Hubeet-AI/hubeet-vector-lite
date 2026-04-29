@@ -1,0 +1,4 @@
+doc1|Hubeet is a fast vector engine.
+doc2|Native inference is amazing.
+doc3|C programming is powerful.
+doc4|Embedding search is the future.
